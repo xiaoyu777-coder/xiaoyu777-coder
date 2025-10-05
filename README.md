@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Xiaoyu_777, And welcome to my github!
+
+I like programming! Like coding Python, Java, C#, C++ (I'm Beginner!)
+
+AI is cool i guess
