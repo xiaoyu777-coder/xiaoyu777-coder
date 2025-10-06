@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 My name is Xiaoyu_777, And welcome to my github!
 
-Also I like programming! Like programming Python, Java, C#, C++ (I'm Beginner!)
+I like programming very much! Like programming Python, Java, C#, C++ (I'm Beginner!)
 
 I will try to coding HTML, Rust!
