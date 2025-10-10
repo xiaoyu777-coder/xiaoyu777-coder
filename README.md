@@ -18,4 +18,4 @@ My name is Xiaoyu_777, And welcome to my github!
 
 I like programming very much! Like programming Python, Java, C#, C++ (I'm Beginner!)
 
-Also I will try to coding HTML, Rust!
+Also I will try to code HTML, Rust!
