@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 My name is xiaoyu_777, welcome to my github!
 
-🌱 I’m currently learning vibe coding?
+🌱 I’m currently learning vibe coding and steam cracking!
 
-⚡ Fun fact: There's no fun fact lol
+⚡ Fun fact: I know im handsome, dont say it to me again.
