@@ -18,6 +18,6 @@ My name is xiaoyu_777, welcome to my github!
 
 🌱 I’m currently learning Kernel/GUI coding, windows reverse engineering and steam cracking!
 
-🤔 I’m looking for help, how to Unpack VMProtected software and devirtualize it
+🤔 I’m looking for help, how to Unpack VMProtected softwares and devirtualize them
 
 📫 How to reach me: heelwrc@protonmail.com
