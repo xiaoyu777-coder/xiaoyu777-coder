@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is xiaoyu_777, welcome to my github!
 
-🌱 I’m currently learning Kernel/GUI coding, windows reverse engineering and steam cracking!
+🌱 I’m currently learning Kernel/GUI coding, Windows Reverse Engineering and Steam cracking!
 
-🤔 I’m looking for help, how to Unpack VMProtected softwares and devirtualize them
+🤔 I’m looking for help, how to unpack VMProtected softwares and devirtualize them
 
 📫 How to reach me: heelwrc@protonmail.com
