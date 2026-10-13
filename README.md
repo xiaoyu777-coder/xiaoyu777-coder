@@ -20,4 +20,4 @@ My name is xiaoyu_777, welcome to my github!
 
 🤔 I’m looking for help, how to unpack VMProtected softwares and devirtualize them
 
-📫 How to reach me: heelwrc@protonmail.com
+📫 If you wanna share something about reverse engineering or vmprotect, reach me on: heelwrc@protonmail.com
